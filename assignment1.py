@@ -118,8 +118,8 @@ print("Last Day: ", days[6])
 #Qs.5.4
 print("\nQs.5.4")
 
-#days[1]="Holiday" 
-#print(days)
+days[1]="Holiday" 
+print(days)
 print ("\nWhen I try to change a value in a tuple, I got an error that it doesn't allow me to change. Because tuples are immutable, which means tuples are read-only after cretaed and they cannot modified. But lists can be changed.")
 
 
